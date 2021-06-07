@@ -15,4 +15,4 @@ Building a web page the right way, is not easy - expect if you put in place stro
 - Last advice: I always start to build a web page from outside to inside and from top to bottom.
 
 
-![esquema](/images/borrador.png)
+![esquema](./images/borrador.png)
